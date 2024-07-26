@@ -1,1 +1,5 @@
+resolved content
+content from branch
+
 content from remote repo
+
